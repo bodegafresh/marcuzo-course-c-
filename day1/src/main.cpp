@@ -1,6 +1,5 @@
 #include <rxcpp/rx.hpp>
 #include <iostream>
-using namespace rxcpp;
 
 int main() {
     auto observable = rxcpp::observable<>::from(10, 20, 30, 40);
