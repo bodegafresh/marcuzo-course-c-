@@ -114,6 +114,7 @@ El método subscribe permite que un Suscriptor observe los valores emitidos por 
 
 ```cpp
 []() { std::cout << "Completed!" << std::endl; }
+```
 
 - Esta función se ejecuta cuando el Observable ha terminado de emitir valores.
 - Es útil para realizar tareas de limpieza o notificar que el flujo ha concluido.
