@@ -129,7 +129,6 @@ El método subscribe permite que un Suscriptor observe los valores emitidos por 
 La salida del programa es:
 
 ```plaintext
-Copy code
 Next: 10
 Next: 20
 Next: 30
